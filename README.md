@@ -40,7 +40,8 @@ For PSK:
 ![Screenshot 2025-04-06 190744](https://github.com/user-attachments/assets/6fd5c58a-b9cc-4828-b5cf-18f5c003c12e)
 ![Screenshot 2025-04-06 190827](https://github.com/user-attachments/assets/6ce23be8-9cd2-4b21-b64f-2374706ee9bd)
 ## TABLE
-![IMG-20250406-WA0037 1](https://github.com/user-attachments/assets/5d00c2b3-50a7-4a38-bbdd-590938437363)
+![WhatsApp Image 2025-04-14 at 17 35 35_3c3b4292](https://github.com/user-attachments/assets/cc94ba2d-39da-4f09-a8b7-2aa2511fd8cb)
+
 ## OUTPUT GRAPHS
 ![Screenshot 2025-04-06 192336](https://github.com/user-attachments/assets/5de92c03-fdf1-492a-8ac9-42da6d235937)
 ![Screenshot 2025-04-06 192344](https://github.com/user-attachments/assets/a21fa8fe-4c3e-4213-90c1-fc9ac6e77ee7)
